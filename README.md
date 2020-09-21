@@ -1,2 +1,2 @@
 # sumofnumbers 
-first attempt23:17
+first attempt finished at 23:17
